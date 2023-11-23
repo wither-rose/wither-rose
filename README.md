@@ -2,8 +2,7 @@
 - 🔭 I’m currently working on TSF 2024
 - 🌱 I’m currently learning C++ and competitive programming
 - 📫 How to reach me: Discord @wither_rose48 or email @daisy.li14308@gmail.com
-- ⚡ Fun fact: Constantly dying inside
-
+- ⚡ Fun fact: I work a lot in private repos
 <!--
 **wither-rose/wither-rose** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
