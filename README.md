@@ -1,5 +1,5 @@
 ### Greetings
-- 🔭 I’m currently working on Toronto Science Fair 2024
+- 🔭 I’m currently working on improving my skills
 - 🌱 I’m currently learning C++ and competitive programming
 - 📫 How to reach me: Discord @wither_rose48 or email @daisy.li14308@gmail.com
 - ⚡ Fun fact: I work a lot in private repos
